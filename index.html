@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="style.css">
+    <title>Arabs Names Generator</title>
+</head>
+<body>
+    <div class="header">
+        <div class="container">
+         <img src="baby-boy.png" alt="baby" srcset="" class="baby-icon">
+         <h1 class="header-title">Arabs Names Generator</h1>
+        </div>
+    </div>
+    <div class="container">
+        <div class="content">
+            <div class="row mt-2">
+                <div class="col-lg-6 col-sm-12">
+                    <div class="dropdown">
+                        <button class="dropbtn"> <i class="fa fa-bars"></i> قائمة الاسماء</button>
+                        <div class="dropdown-content">
+                        <a href="#">اسماء الإناث</a>
+                        <a href="#">اسماء الذكور</a>
+                        <a href="#">الاسماء المركبة</a>
+                        <a href="#">الاسماء الحديثة</a>
+                        <a href="#">الاسماء القديمة</a>
+                        </div>
+                      </div>
+                </div>
+                <div class="col-lg-6 col-sm-12">
+                    <input type="text" class="form-control text-right w-50 float-right" placeholder="ابحث عن الاسم">
+                </div>
+            </div>
+        </div>
+        <div class="row mt-5">
+            <div class="col-12">
+                <div class="title text-center">
+                    !اختر اسم طفلك عشوائيا
+                 </div>
+                <div class="d-flex justify-content-center text-right mt-4">
+                    <div class="form-check">
+                        <input class="form-check-input" type="radio" name="gender" id="girl" value="option1">
+                        <label class="form-check-label mr-4 float-right" for="girl">
+                          أنثى
+                        </label>
+                      </div>
+                      <div class="form-check">
+                        <input class="form-check-input" type="radio" name="gender" id="boy" value="option2">
+                        <label class="form-check-label mr-4 float-right" for="boy">
+                          ذكر
+                        </label>
+                      </div>
+                      <div class="form-check">
+                        <input class="form-check-input" type="radio" name="gender" id="both" value="option3" checked>
+                        <label class="form-check-label mr-4 float-right" for="both">
+                          كليهما
+                        </label>
+                      </div>
+                </div>
+                <div class="green-button mt-4 p-1 select-name">
+                   اختيار
+                </div>
+                <div class="name mt-4 text-center">
+                  <div id="counter">
+                    <div class="loader">
+                      <div class="loader-counter">
+                        <h1>0</h1>
+                      </div>
+                    </div>
+                  </div>
+                  <div id="selectName">
+                    <img src="./pink-cosmos.png" width="30px" class="mr-2" alt="" srcset="">
+                    <span>زين</span>
+                    <img src="./pink-cosmos.png" width="30px" class="ml-2" alt="" srcset="">
+                  </div>
+                   
+                </div>
+            </div>
+        </div>
+        
+        <row class="mt-5">
+            <div class="col-12 mt-5">
+                <div class="title text-center">
+                    ابحث هنا عن اسم يناسب طفلك
+                 </div>
+            </div>
+            <div class="d-flex justify-content-center text-right mt-4">
+                <div class="form-check">
+                    <input class="form-check-input" type="radio" name="gender2" id="girl2" value="option1">
+                    <label class="form-check-label mr-4 float-right" for="girl2">
+                      أنثى
+                    </label>
+                  </div>
+                  <div class="form-check">
+                    <input class="form-check-input" type="radio" name="gender2" id="boy2" value="option2">
+                    <label class="form-check-label mr-4 float-right" for="boy2">
+                      ذكر
+                    </label>
+                  </div>
+                  <div class="form-check">
+                    <input class="form-check-input" type="radio" name="gender2" id="both2" value="option3" checked>
+                    <label class="form-check-label mr-4 float-right" for="both2">
+                      كليهما
+                    </label>
+                  </div>
+            </div>
+            <div class="d-flex justify-content-center text-right mt-4">
+                <div class="form-check">
+                    <input class="form-check-input" type="radio" name="type" id="modern" value="option1">
+                    <label class="form-check-label mr-4 float-right" for="modern">
+                      اسماء حديثة
+                    </label>
+                  </div>
+                  <div class="form-check">
+                    <input class="form-check-input" type="radio" name="type" id="old" value="option2">
+                    <label class="form-check-label mr-4 float-right" for="type">
+                      اسماء قديمة
+                    </label>
+                  </div>
+                  <div class="form-check">
+                    <input class="form-check-input" type="radio" name="type" id="both2" value="bothtype" checked>
+                    <label class="form-check-label mr-4 float-right" for="bothtype">
+                      كليهما
+                    </label>
+                  </div>
+            </div>
+            <div class="d-flex justify-content-center text-right mt-4">
+                <input type="text" class="form-control text-right ml-2" placeholder="الحرف الأول">
+                <input type="text" class="form-control text-right ml-2" placeholder="الحرف الأخير">
+                <input type="text" class="form-control text-right ml-2" placeholder="يحتوي على">
+            </div>
+            <div class="mt-4">
+                <ul class="results">
+                    <li class="result"> 
+                        <span class="main-name">زين</span>:
+                        <span class="mean-name">الجمال</span>
+                    </li>
+                    <li class="result"> 
+                        <span class="main-name">زهرة</span>:
+                        <span class="mean-name">وردة</span>
+                    </li>
+                </ul>
+            </div>
+            
+        </row>
+       
+
+
+        
+    </div>
+
+
+
+
+
+
+
+
+
+<script src="./jquery.js"></script>
+<script src="./script.js"></script>
+
+
+</body>
+</html>
