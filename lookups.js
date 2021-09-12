@@ -20869,5 +20869,4091 @@ var names = [
       "name": "جاستن",
       "type": "S",
       "periodCode": "NEW"
-    }
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "الشمس الواهبة للحياة"
+      ],
+      "name": "روجيندا",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "يعني الشمس قبل الغروب"
+      ],
+      "name": "روسلين",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "يعني قرص الشمس"
+      ],
+      "name": "روسيل",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "يعني المضيء و اللامع"
+      ],
+      "name": "روشان",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "يعني الوعد"
+      ],
+      "name": "روهان",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "وهو أسم فارسي يشير إلى دليل السفر"
+      ],
+      "name": "روانا",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "أسم لاتيني بمعنى القمر ويمكن أن يطلق على الأولاد أو الأناث"
+      ],
+      "name": "لونار",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "أسم عربي تم ذكره في القرآن الكريم بسورة الفتح ويعنى العلامة أو الإشارة"
+      ],
+      "name": "سيماء",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "أسم أصوله عربية ويحمل أكثر من معنى منها الفتاة العنيدة أو السحابة الممطرة"
+      ],
+      "name": "عنود",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "ومعناه في اللغة اليونانية الله كريم وفي اللغة الفارسية الشابة أو الفتاة الجميلة"
+      ],
+      "name": "جوانا",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "يعني يوم العيد"
+      ],
+      "name": "نيروز",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "يعني النبتة أو البندق وهي إسم شجرة"
+      ],
+      "name": "هازال",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "إسم تركي ويعني المحبوبة"
+      ],
+      "name": "يارا",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "يعني المطر"
+      ],
+      "name": "يامور",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "يعني حبات اللؤلؤ"
+      ],
+      "name": "لوليا",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "يعني المدللة"
+      ],
+      "name": "نازلي",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "يعني القدر"
+      ],
+      "name": "نارفين",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "يعني المستقبل"
+      ],
+      "name": "نوسين",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "يعني التحية"
+      ],
+      "name": "سلافا",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "يعني العشق"
+      ],
+      "name": "سيفدا",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "الحجر الأسود"
+      ],
+      "name": "سودي",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "يعني الجميلة"
+      ],
+      "name": "رندة",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "يعني النهار"
+      ],
+      "name": "روجدا",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "يعني شمس الحياة"
+      ],
+      "name": "روجين",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "الاسم على الرغم من حلاوته وسهولة نطقها إلا أنه غير عربي في الأصل حيث يقال أن اسم ألما من اصل اسباني ويعني الروح أو روح الفتاة"
+      ],
+      "name": "ألما",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "هذا الاسم هو الاخر اعجمي الاصل ويقال ان أصله الأجنبي يعطي له معنى ضوء القمر ، والبعض يقول أن الاسم قد أخذ من الأصل الايرلندي الذي يعني حامل الضوء"
+      ],
+      "name": "آيلا",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "احد الأسماء العربية الأصل الغير منتشرة في وطننا العربي على الرغم من انها حلوة وخفيفة النطق كما ان معناها جميل لأنها تعني الحسن والجمال كما أنها جاءت من الشور أي عرض الشيء وإظهاره كما يطلق الاسم على اللباس والزينة والمنظر والعسل"
+      ],
+      "name": "شِيار",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "في البداية يجب القول أن أودا لم يظهر كاسم على مؤنث في الوطن العربي خاصة انه اسم غريب جداً ، ولكنه اسم جميل ويدل على المرأة الحكيمة العاقلة والثرية كما أنها رتبة رفيعة تقال على السفيرة ابو سفير السلطان وهي من أصل جرماني"
+      ],
+      "name": "ألدا",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "الاسم لم ينتشر في الوطن العربي ولكنه ظهر بصورة نادرة للغاية ، وهو من اصل ارمني ويعني الخضرة أو الخضار"
+      ],
+      "name": "تالارا",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "وجب علينا التشكيل لصحة نطقه خاصة انه اسم غريب وهو من اصل إنكليزي ويعني السيدة النبيلة واللامعة العظيمة ، ويطلق على الذكور ألبرت ويمكن أن يكون منتشر اكثر عن ألبرتا"
+      ],
+      "name": "اُلبرْتا",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "يعني جوهرة السيف"
+      ],
+      "name": "أثير",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "يعني الخليج الصغير"
+      ],
+      "name": "أجوان",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "يعني الخد الناعم"
+      ],
+      "name": "أسيل",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "يعني الحب"
+      ],
+      "name": "أفين",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "أجمل نساء العالم"
+      ],
+      "name": "ألين",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "تعني اللهب"
+      ],
+      "name": "أليف",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "تعني نور القمر"
+      ],
+      "name": "أينور",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "يعني النجمة"
+      ],
+      "name": "إستيرا",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "الألفة والمحبة"
+      ],
+      "name": "إيليف",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "يعني مشعة كالقمر"
+      ],
+      "name": "إيتين",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "احد الأسماء التركية الأصل المشهورة في تركيا بصورة كبيرة خاصة أنه اسم يطلق على الذكور والإناث معاً ويعني البحر في اللغة التركية ، ومن أشهر النجمات التي عرفت بهذا الاسم دينيز شاكر و دينيز بايصال"
+      ],
+      "name": "دينيز",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "هذا الاسم هو الآخر يطلق على الذكور والإناث في تركيا إلا انه يطلق بكثرة على الاناث خاصة ان معناه في التركية الفتاة القوية العاقلة ، وتعرف به الفنانة التركية الشابة بيرين سات"
+      ],
+      "name": "بيرين",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "اسم بورجو من الاسماء التركية الأصل التي لم تنتشر بعد بصورة كبيرة في تركيا إلا أن الفنانة بورجو اوزبيرك قد عرفت به ، ويعني الرائحة العطرة الزكية"
+      ],
+      "name": "بورجو",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "أصبحت الفنانة يلدز شاغرى من أشهر الفنانات التركيات مما جعل البعض يبحث عن معنى الاسم حتى يكون احد اسماء الاطفال الحديثة التي قد تطلق على بعض الفتيات ، واسم يلدز يمكن إطلاقه على الذكور والإناث معاً وهو يعني النجم اللامع"
+      ],
+      "name": "يلدز",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "على الرغم من غرابة نطق الاسم إلا أنه عربي في الأصل ولكنه غير معروف ، ويعني الكثيرة من الماء او كثيرة ماء البئر"
+      ],
+      "name": "ماهة",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "الاسم اجنبي ولكنه لم ينتشر مثل باقي الاسماء الاعجمية الأخرى ، وهو يعني السيدة والحبيبة"
+      ],
+      "name": "ميرتا",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "اجدد أسماء البنات وهو اسم مميز للغاية لأنه يعني المعجزة والعجيبة ، والاسم من أصل أجنبي"
+      ],
+      "name": "ميراي",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "الاسم أرمني في الأصل ويعني الهدية"
+      ],
+      "name": "انزا",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "اسم آليك هو اسم علم مؤنث أرمني الأصل ويعني موج البحر"
+      ],
+      "name": "آليك",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "ذات أصل عربي وتعني النخلة ذات البلح المثمر"
+      ],
+      "name": "لينة",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "ذات أصل فارسي ولكنها تعني في اللغة العربية الهضبة المستوية"
+      ],
+      "name": "لورا",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "ويعنى في المعجم العربي الضباب المخيم في السماء"
+      ],
+      "name": "سديم",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "اسم ذات أصل تركي ويعنى الفتاة الحساسة"
+      ],
+      "name": "ديجو",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "وتعني في اللغة التركية الحرية والقوة"
+      ],
+      "name": "سربست",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "اسم بنت تركي ويوحي بالظلام والعتمة وتتميز حاملة هذا الاسم بالكتمان والسرية والشجاعة ومساعدة الغير"
+      ],
+      "name": "هيفار",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "ويعنى في المعجم البريق اللامع وتتميز البنات التي تمتلك هذا الاسم بحب الشهرة"
+      ],
+      "name": "لمار",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "مأخوذ من الاسم رئم ولكن حذفت الهمزة وبدلت بالياء للتخفيف في النطق وتعنى الظبي الصغير"
+      ],
+      "name": "ريم",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "ويعنى ذات الملمس اللين الناعم"
+      ],
+      "name": "اسيل",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "وتعنى الفتاة حسنة المظهر جميلة الملامح"
+      ],
+      "name": "اروي",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "مشتق من كلمة هياء ولكن حذفت الهمزة للتخفيف أيضا وتعني جميلة الهيئة مهندمة الشكل"
+      ],
+      "name": "هيا",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "اسم مدينة مفقودة وردت في القرآن الكريم"
+      ],
+      "name": "إرم",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "الحاكم الأبدي"
+      ],
+      "name": "أريكا",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "الإعجاب بالشيء أو الإعجاب بالنفس"
+      ],
+      "name": "إزهاء",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "اسم حجر الألماس"
+      ],
+      "name": "إلماس",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "الصداقة أو المؤانسة"
+      ],
+      "name": "ألفة",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "بريق الشمس أو المرأة ذات الجمال والحسن"
+      ],
+      "name": "إلينا",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "المطمئنة من الأذى"
+      ],
+      "name": "آمنة",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "بصمات الأصابع البيضاء"
+      ],
+      "name": "أولوين",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "الرئيس أو القائد"
+      ],
+      "name": "باتيل",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "المطر أو المحارب النبيل"
+      ],
+      "name": "باران",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "الفتاة التي تمشي برقة ونعومة ونعومة وهدوء"
+      ],
+      "name": "بالاري",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "مشتق من قول الله تعالى بسم الله الرحمن الرحيم"
+      ],
+      "name": "بسملة",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "المنقطعة عن الرجال أو المضربة عن الزواج"
+      ],
+      "name": "بتول",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "اسم يطلق على جانب الوادي"
+      ],
+      "name": "بدوة",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "الإطراق والسكوت عن فزع أو غيره"
+      ],
+      "name": "بلسم",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "الرياض التي تكسيها الزهور"
+      ],
+      "name": "بينان",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "الزهرة الجميلة أو طرحة العروس"
+      ],
+      "name": "تارا",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "الفتاة الحسناء في سن الشباب"
+      ],
+      "name": "تالا",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "الفتاة الصغيرة"
+      ],
+      "name": "تاليدا",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "هبوب النسيم وشم النسيم"
+      ],
+      "name": "تنسيم",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "الفتاة التي تسعى لإرضاء من تحبه"
+      ],
+      "name": "تودد",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "الفتاة المزهرة أو الجميلة"
+      ],
+      "name": "تيلين",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "اسم يطلق على شجرة النخيل"
+      ],
+      "name": "تيمارا",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "الفتاة المحبوبة"
+      ],
+      "name": "ثاندي",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "الغنى وكثرة المال"
+      ],
+      "name": "ثراء",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "الشخص الذي يغيث الناس ويساعدهم"
+      ],
+      "name": "ثمال",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "الشكر أو العطاء أو الإطراء"
+      ],
+      "name": "ثناء",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "نتاج الجهد والتعب"
+      ],
+      "name": "ثيمار",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "كثيرة الثمر أو ظهر ثمارها"
+      ],
+      "name": "ثمراء",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "الوسيلة أو النجاة"
+      ],
+      "name": "ثمامة",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "المرأة الغنية صاحب المال الكثير"
+      ],
+      "name": "ثرية",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "اسم زهرة بيضاء معروفة برائحتها الجميلة"
+      ],
+      "name": "جاسمين",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "الله رحيم"
+      ],
+      "name": "جانسن",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "اسم يطلق على حجر اليشم"
+      ],
+      "name": "جايدا",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "الفائدة أو القيمة"
+      ],
+      "name": "جدوى",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "صار ذا رأي جيد وقوي"
+      ],
+      "name": "جزلان",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "الفتاة الحسنة والتي تتمتع بالجمال في الشكل"
+      ],
+      "name": "جميلة",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "الفتاة ذات المقام الرفيع والعالي"
+      ],
+      "name": "جليلة",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "الفائزة أو طائر يشبه الغراب"
+      ],
+      "name": "جايلين",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "الفتاة المحبوبة أو الحبيبة أو العزيزة"
+      ],
+      "name": "دارلا",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "الفتاة المتفاخرة أو المغرورة أو الوادي الصغير"
+      ],
+      "name": "دالين",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "قطرات الماء أو قطرات الدموع أو المطر"
+      ],
+      "name": "داملا",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "اللؤلؤة العظيمة أو الببغاء"
+      ],
+      "name": "درة",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "الطريق أو المضيق المتواجد في الجبل"
+      ],
+      "name": "دروب",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "التغنج أو التلوي أو الدلع"
+      ],
+      "name": "دلال",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "الهدية أو المنحة أو العطية"
+      ],
+      "name": "دوري",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "الأميرة أو الملكة"
+      ],
+      "name": "ديندا",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "شمس الحياة أو الملكة أو صاحبة الشأن العالي أو القيمة الكبيرة أو الرمح القوي"
+      ],
+      "name": "روجين",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "طلب الشيء أو الفوز في مسابقة"
+      ],
+      "name": "راما",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "الريح التي تثير الغبار أو الأتربة"
+      ],
+      "name": "راميس",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "اسم غزال فرنسي معروف، كما أنه اسم نهر في فرنسا"
+      ],
+      "name": "رانسي",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "اسم يطلق على الشمس"
+      ],
+      "name": "سوليل",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "الغطاء أو السترة أو ستار الكعبة"
+      ],
+      "name": "سيدال",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "السطوع أو الضياء"
+      ],
+      "name": "شارقة",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "القمر"
+      ],
+      "name": "شاندا",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "الورعة التي تتقى الله أو التي تسير على طريق مستقيم"
+      ],
+      "name": "شاهندة",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "القوي البصر أو المحب الراغب لشيء"
+      ],
+      "name": "شاهي",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "النقاء والصفاء"
+      ],
+      "name": "كاتي",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "شجرة العنب، ويوحى بالسخاء والكرم"
+      ],
+      "name": "كارما",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "الفتاة الجميلة"
+      ],
+      "name": "كارولين",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "الفتاة السمراء أو النحيلة أو الجميلة"
+      ],
+      "name": "كالي",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "نور الشمس وضوئها أو جمال الطبيعة"
+      ],
+      "name": "كاليندا",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "المعرفة"
+      ],
+      "name": "كيندرا",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "السيدة"
+      ],
+      "name": "لادونا",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "المنتصر الذي لا يسهل هزيمته"
+      ],
+      "name": "لاتويا",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "النقاء والصفاء"
+      ],
+      "name": "لافين",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "اسم زهرة معروفة برائحتها الطيبة وألوانها الجميلة والرائعة"
+      ],
+      "name": "لوتس",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "الفضة أو ماء الفضة، وهو مشتق من اسم لوجين"
+      ],
+      "name": "لوجينا",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "اسم شجرة الغار التي تستخدم في الطهي أو التزيين"
+      ],
+      "name": "لوريانا",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "صاحبة الوجه الحسن والمضيء"
+      ],
+      "name": "لوسيندا",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "ورق الغار أو المرأة المتوجه به"
+      ],
+      "name": "لولي",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "تمنى أمنية للطفل أو المرأة العظيمة"
+      ],
+      "name": "ميا",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "يوم الميلاد أو الفتاة الجميلة أو الطيبة"
+      ],
+      "name": "ناتالي",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "الرجاء والأمل"
+      ],
+      "name": "نادين",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "اسم نبات طيب الرائحة ينمو في آسيا، وينطق نردين"
+      ],
+      "name": "ناردين",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "نزول المطر بشكل متتالي أو القطرات أو الدموع"
+      ],
+      "name": "هاتن",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "البطلة"
+      ],
+      "name": "هالين",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "اسم ملكة فرعونية، ويوحى بالجمال والقوة والشجاعة"
+      ],
+      "name": "هاميس",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "اسم مؤنث فرنسي منسوب لغزال كما أن هناك نهر في فرنسا يحمل نفس اللقب"
+      ],
+      "name": "رانسى",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "يدلل على النجمة العالية ويؤخذ في الأساس من كلمة مياس أي البنت المتبخترة التي تتمايل في مشيتها كبراً"
+      ],
+      "name": "مياسين",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "نوع من الحبال يستخدم في شد ألواح السفن وذكر بالقرآن بلفظ دسر ويعني أيضاً مسمار محدد الطرفين يضم لوح للأخر"
+      ],
+      "name": "دسار",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "ويشير إلى تتويج شخص أو أرتداء التاج وصاحبة الاسم عادة ما تعتز بنفسها وتحب المناصب القيادية"
+      ],
+      "name": "توجان",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "يعني لغوياً النظر طويلاً لشيء عالي وجميل ويشاع عند تسمية الفتيات به أنه النجمة العالية في السماء"
+      ],
+      "name": "رنوة",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "يقصد بها الشعر الطويل أو الثوب السابغ وجاء تسمية الأناث بها بمعنى متبخترة وتجر أذيال ثوبها شموخاً"
+      ],
+      "name": "رفال",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "أو توتياء وله أكثر من دلالة منها الحجر يتكحل بمسحوقه أو صدف بحر به مادة تؤكل أو معدن أبيض يميل للزرقة ويغلف به الحديد لحمايته من الصدأ"
+      ],
+      "name": "توتيا",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "أي اللؤلؤة ويرجع لأصول أسبانية ويوحي بالبريق والقيمة الكبيرة"
+      ],
+      "name": "بيرلا",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "وهو تركي الأصل ويعني الكرام والعطف إلى أخره من الأخلاق الحميدة"
+      ],
+      "name": "كايرا",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "ويطلق على ضوء القمر في نصف الشهر الهجري عندما يكون البدر مكتمل"
+      ],
+      "name": "ماهينور",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "ورغم أن أصله يوناني ومعناه الأميرة إلا أنه يأتي بمعنى العمة في اللغة الأسبانية وهو أيضاً تصغير تاء التأنيث بالعربية"
+      ],
+      "name": "تيا",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "ويعني شمس الحق وبالرغم من ظن البعض بأنه من أصل كردي إلا أن الحقيقة أنه كان مشهور عند العرب قديماً ولكنه اندثر عبر الأزمنة"
+      ],
+      "name": "روماف",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "تم ذكره بالقرآن ويعني الضوء الساطع أو اللامع في السماء"
+      ],
+      "name": "سنا",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "ما يلف عليه الغزل مستخدمين الأصابع حتى يتحول لنسيج"
+      ],
+      "name": "استاج",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "يقصد به الإشراق والجمال كما يشير إلى الصفات الحسنة العديدة التي تحظى به حاملة الإسم"
+      ],
+      "name": "أشري",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "اسم حيوان من فصيلة الأيليات يعرف لدى العرب بالظبي أما عن المعنى باللغة التركية فهو القمر"
+      ],
+      "name": "يامور",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "يشاع إستخدامه بشكل كبير في العراق حتى أن هناك نهر ديالى ومحافظة عراقية بهذا الإسم الذي يعني الوردة الجميلة أو الأرض الخضراء الخصبة في البلدان الأجنبية"
+      ],
+      "name": "ديالا",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "لقب أسباني يشار به إلى الفتاة الجميلة ويشتق من آن أي الحنة"
+      ],
+      "name": "انيتا",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "لفظ قرآني يعني التهيئة والتجهيز كما قد يكون مشتق من الألفة أي حب الشئ وتعود عليه"
+      ],
+      "name": "ايلاف",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "اسم فارسي يطلق على الفتاة الجميلة التي تحب الغير وتقدم للجميع المساعدة أو الصديقة الحنونة وهو أحد أسماء الشهور السريانية"
+      ],
+      "name": "أيار",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "أي المحبوبة اللطيفة وتعود أصوله إلى الثقافة اليونانية"
+      ],
+      "name": "أماليا",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "ويشار به إلى بداية الريح وأنفسها عند انطلاقها وهو جمع نسم"
+      ],
+      "name": "انسام",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "أحدى الألفاظ القرآنية التي تعني القدوة الحسنة والنموذج الصالح"
+      ],
+      "name": "أسوة",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "يعني الدرة المكنونة أو اللؤلؤة صغيرة الحجم المستخلصة من الفضة"
+      ],
+      "name": "جمانة",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "وهو كناية عن الباب العظيم أو الباب المغلق وقد قيل رتاج الكعبة أي بابها"
+      ],
+      "name": "رتاج",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "ويعني المرأة الكادحة الرابحة والمجتهدة وهو تصغير للاسم اللاتيني ايميليا"
+      ],
+      "name": "ميليا",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "بمعنى الفتاة المتألقة أو المشرقة التي تتسم بالجمال والتفاؤل وهو يوناني الأصل"
+      ],
+      "name": "ساندي",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "ويطلق على عود البخور في الجنة كما أن معناه لغوياً يشير إلى الأرض شديدة الخصوبة"
+      ],
+      "name": "ليا",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "كوكب خفي صغير الحجم ينسب إلى مجموعة نجمية مكونة من سبعة نجوم تلقب بنات نعش الكبرى"
+      ],
+      "name": "سها",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+      "genderCode": "F",
+      "mean": [
+        "الغزال الصغير"
+      ],
+      "name": "ميرال",
+      "type": "S",
+      "periodCode": "NEW"
+    },
+    {
+        "genderCode": "F",
+        "mean": [
+          "نسبة إلى مدينة الأندلس"
+        ],
+        "name": "أندلس",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "جمع نسيم"
+        ],
+        "name": "أنسام",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "انشراح"
+        ],
+        "name": "الهواء الناعم العليل ، الرَّوْح",
+        "type": "M",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "أنصار"
+        ],
+        "name": "طيبُ النفس واتّساعها ، والشعور بالسرور والغبطة",
+        "type": "M",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "إنصاف"
+        ],
+        "name": "المؤيدون والمؤازرون والأعوان",
+        "type": "M",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "إنعام"
+        ],
+        "name": "العدل، الحصول على النصف، الانتقام، طلب الإنصاف",
+        "type": "M",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "جمع نعم"
+        ],
+        "name": "العطاء والكرم وبذل النعمة والمعروف، وأنعام",
+        "type": "M",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "اسم عربي يطلق على الإناث وهو جمع نفل وتعني في القرآن “الغنائم”"
+        ],
+        "name": "أنفال",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "اسم علم أصله عربي مؤنث،وهو جمع النُّور"
+        ],
+        "name": "أنوار",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "أنثى الوعلن أي الغزال الجبلي"
+        ],
+        "name": "أروى",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "تعني النخلة الصغيرة"
+        ],
+        "name": "لينا",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "تعني النجمة"
+        ],
+        "name": "تارا",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "أجمل نساء العالم"
+        ],
+        "name": "ألين",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "وهي جمع كلمة جنة"
+        ],
+        "name": "جنان",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "وهو السحاب الأبيض"
+        ],
+        "name": "رباب",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "كل شيء جميل يتزين به الإنسان"
+        ],
+        "name": "زينة",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "بمعنى التغريد والترنيم بصوت جميل"
+        ],
+        "name": "رنيم",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "الماء العذب"
+        ],
+        "name": "رسيل",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "الملساء والمستوية"
+        ],
+        "name": "أسيل",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "مشتق من الرند وهو العود الذي يتبخر به وقيل شجر صغير من أشجار البادية طيب الرائحة، ويقال “تراب الجنة”"
+        ],
+        "name": "ريناد",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "النخلة الصغيرة"
+        ],
+        "name": "لانا",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "الصفات الحميدة"
+        ],
+        "name": "سجى",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "اسم أصله فارسي، ويعني المكان الذي يفرد فيه العجين"
+        ],
+        "name": "روفيدا",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "وتعني عطاء من الله"
+        ],
+        "name": "منة أو منن (منة الله)",
+        "type": "M",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "الفضة"
+        ],
+        "name": "لُجَيْن",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "الحرير الرقيق"
+        ],
+        "name": "سندس",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "ثمرة جوز الهند"
+        ],
+        "name": "نارجيل",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "ذات عين شديدة البياض والسواد"
+        ],
+        "name": "حَوراء",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "اسم مجموعة من النجوم"
+        ],
+        "name": "ثريا",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "وهو جبل الجودي الذي رست عليه سفينة نوح"
+        ],
+        "name": "جودي",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "ويعني ضوء القمر"
+        ],
+        "name": "نورسين",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "وهو الظِّباء (جمع ظبى)"
+        ],
+        "name": "آرام",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "ومعناه الضوء"
+        ],
+        "name": "سنا",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "الرائحة الطيبة العطرة"
+        ],
+        "name": "أريج",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "جمع كلمة ريم، والريم هو الغزال"
+        ],
+        "name": "أريام",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "المواسية أو الحزينة المتأملة"
+        ],
+        "name": "آسية",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "وتعني القارئة"
+        ],
+        "name": "تالية",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "غناء عذب"
+        ],
+        "name": "ترنيم",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "ماء في الجنة"
+        ],
+        "name": "تسنيم",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "وهو المدح"
+        ],
+        "name": "ثناء",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "اسم جاء من كلمة الغنى"
+        ],
+        "name": "ثراء",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "الحلوة"
+        ],
+        "name": "جميلة",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "جمع جنة أي بستان جميل"
+        ],
+        "name": "جنّات",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "نوع من الزهور طيبة الرائحة"
+        ],
+        "name": "جوري",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "اللؤلؤة"
+        ],
+        "name": "جُمانة",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "وتعني المحبوبة"
+        ],
+        "name": "حبيبة",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "كل ما يحلو"
+        ],
+        "name": "حلا",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "جميلة"
+        ],
+        "name": "حَسناء",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "البيضاء ذات البشرة الناعمة"
+        ],
+        "name": "حُور",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "الشوق"
+        ],
+        "name": "حَنين",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "حسناء شديدة الجمال والبياض"
+        ],
+        "name": "حُورية",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "البقاء والدوام"
+        ],
+        "name": "خلود",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "المولودة قبل موعد ولادتها المتوقع، على أن تحيا بعد ذلك"
+        ],
+        "name": "خَدِيجة",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "من الفعل يدري، أي يعرف ويعلم"
+        ],
+        "name": "دارين",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "قيل اسم نبات، وقيل الكرمة المتدلية"
+        ],
+        "name": "داليا",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "اسم جاء من الدنو والقرب"
+        ],
+        "name": "دان",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "لؤلؤة"
+        ],
+        "name": "درة",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "المطر بدون رعد أو برق"
+        ],
+        "name": "ديمة",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "ما يتذكره من الماضي"
+        ],
+        "name": "ذكرى",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "أحلام"
+        ],
+        "name": "رؤى",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "ما ارتفع من الأرض وعلا"
+        ],
+        "name": "رُبى",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "ذات الوقار والرزانة"
+        ],
+        "name": "رزان",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "ولد الظبية إذا قوى وتحرك"
+        ],
+        "name": "رشا",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "العيش في الرفاهية والنعمة"
+        ],
+        "name": "رغد",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "حسنة وجميلة"
+        ],
+        "name": "زينة",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "الشجرة حسنة المظهر"
+        ],
+        "name": "زينب",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "سكن وستر"
+        ],
+        "name": "سجى",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "السليمة أو الناجية"
+        ],
+        "name": "سلمى",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "تصغير سمة وهي العلامة الصغيرة"
+        ],
+        "name": "سمية",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "ريح المسك، والرائحة الطيبة الرائجة"
+        ],
+        "name": "شذى",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "العسل"
+        ],
+        "name": "شهد",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "الشباب"
+        ],
+        "name": "صبا",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "من الصفاء أي خالص من الشوائب"
+        ],
+        "name": "صفا",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "الفترة من بعد شروق الشمس حتى انتصاف الشمس في السماء"
+        ],
+        "name": "ضحى",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "من العيش، أي الحياة"
+        ],
+        "name": "عائشة",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "من العلو، أي الارتفاع والسمو"
+        ],
+        "name": "عالية",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "وهو النهر الصغير"
+        ],
+        "name": "غدير",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "ويعني الغالية"
+        ],
+        "name": "غلا",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "المرأة التي تفطم طفلها"
+        ],
+        "name": "فاطمة",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "وتعني المرأة او الفتاةالمتفردة التي لا مثيل لها"
+        ],
+        "name": "فريدة",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "سعادة وسرور"
+        ],
+        "name": "فرح",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "شجرة العنب"
+        ],
+        "name": "كرمة",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "الفضة"
+        ],
+        "name": "لجين",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "ذات شفتين بهما سمرة"
+        ],
+        "name": "لمياء",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "ظلمة الليل"
+        ],
+        "name": "ليلى",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "الهدف أو المراد"
+        ],
+        "name": "مرام",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "من اللعب والمرح والبهجة"
+        ],
+        "name": "مرح",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "ملاك"
+        ],
+        "name": "ملك",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "الملكة أو المالكة"
+        ],
+        "name": "مليكة",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "عطر عربي"
+        ],
+        "name": "ميس",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "قطرات الماء التي تسقط على الأزهار صباحًا"
+        ],
+        "name": "ندى",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "صوت الموسيقى"
+        ],
+        "name": "نغم",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "ويعني ضياء"
+        ],
+        "name": "نور",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "هو اسم هندي الأصل،حيث يُقال أنه اسم بطل لملحمة الرامايانا الهندية،"
+        ],
+        "name": "راما",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "التي تهجر أرضها"
+        ],
+        "name": "هاجر",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "اسم يُقال للترحيب مثل “مرحبًا وأهلًا”"
+        ],
+        "name": "هلا",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "هناء وسعادة"
+        ],
+        "name": "هنا",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "ويعني العلامة"
+        ],
+        "name": "وسام",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "اسم يعني الالتزام بالاتفاق"
+        ],
+        "name": "وعد",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "زهرة عطرية بيضاء اللون"
+        ],
+        "name": "ياسمين",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "من اليسر والسهولة"
+        ],
+        "name": "يسر",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "وهو اسم من الطمأنينة والتأكد"
+        ],
+        "name": "يقين",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "انتشار الرائحة القوية الجميلة"
+        ],
+        "name": "شذى",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "من تغني بصوت عذب"
+        ],
+        "name": "شادية",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "عسل"
+        ],
+        "name": "شهد",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "ريح رقيقة جدًا"
+        ],
+        "name": "صبا",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "نقاء"
+        ],
+        "name": "صفاء",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "الصديقة المخلصة أو النقية"
+        ],
+        "name": "صفية",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "باسمة الثغر"
+        ],
+        "name": "ضاحكة",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "مشرقة"
+        ],
+        "name": "بارقة",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "شجاعة"
+        ],
+        "name": "باسلة",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "تعبير عن الفرح وهو منزلة تقل عن الضحك"
+        ],
+        "name": "باسمة",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "شجر طيب الرائحة"
+        ],
+        "name": "بان",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "التي تبني وتعمر"
+        ],
+        "name": "بانية",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "التي تبهر النظر بحسنها وجمالها"
+        ],
+        "name": "باهرة",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "عذراء لم يمسها رجل"
+        ],
+        "name": "بتول",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "الأرض اللينة السهلة"
+        ],
+        "name": "بثنة ـ بثينة",
+        "type": "M",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "القمر ليلة اكتماله"
+        ],
+        "name": "بدر",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "القمر الذي يطلع في الظلام"
+        ],
+        "name": "بدر الدجى",
+        "type": "M",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "كيس النقود"
+        ],
+        "name": "بدرة",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "ضوء القمر"
+        ],
+        "name": "نورسين",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "القوية، والمحبوبة"
+        ],
+        "name": "يارا",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "إسمرار الشفاه"
+        ],
+        "name": "لمى",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "النسيم اللي حول النخل"
+        ],
+        "name": "ليان",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "نوع من الحيوانات يشبه الغزال"
+        ],
+        "name": "لاما",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "الفضة السائلة أو معناه بريق الذهب والألماس"
+        ],
+        "name": "لوجين",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "ما يجنى من العسل أو الثمر"
+        ],
+        "name": "جنى",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "امرأة بيضاء"
+        ],
+        "name": "مارية",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "وهي اسم لقبيلة عربية"
+        ],
+        "name": "كندة",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "ويعني الفتاة المحبوبة المطيعة، و المخلصة"
+        ],
+        "name": "هيا",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "هو جمع كلمة اسم، وهو من أسماء البنات العربية"
+        ],
+        "name": "أسماء",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "جبل الجودي الذي رست عليه سفينة نوح"
+        ],
+        "name": "جودي",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "قول “بسم الله الرحمن الرحيم”"
+        ],
+        "name": "بَسملة",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "ويُقصد بها الصادقون والمطيعون،والمؤمنون والمتطهرون والمغفور لهم والشهداء"
+        ],
+        "name": "أبرار",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "و تعني التكريم والتشريف والتعظيم والتنزيه"
+        ],
+        "name": "إكرام",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "ومعناه الورع والعبادة والصلاح والاسم من الفعل وقى"
+        ],
+        "name": "تقوى",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "وهي شجرة النبق، وهو نوعان نوع بشوك وآخر بدون وهذا يكون ذو ورقٍ كثير"
+        ],
+        "name": "سدرة",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "معناه كل ما يُسليك وينسيك أحزانك وهو العسل لأنه يسيلك بحلاوته كما يعرف طائر بهذا الاسم وهو السماني الأبيض اللون ومفرده سلواة"
+        ],
+        "name": "سلوى",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "يقال أن الاسم جاء من الجنة أي البستان الأخضر المليئ بالخضرة والجنى هو كل ما يجنى من الشجر فهو جنى مثل الرطب والكمأ والكلأ والعنب والعسل والذهب كما يُقال أن الجنى هو كل ما من ثمر الشجر أي جناها"
+        ],
+        "name": "جنى",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "اسم عربي الأصل يعني الصهر الصلد الأصم وهو أيضاً الصخر الناعم الملمس ومفردته صفاة"
+        ],
+        "name": "صفا",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "يسرى هو اسم علم مؤنث من أصل عربي، ويعني السهلة الإنقياد والغنية الموسرة وتعني أيضًا من تستخدم يدها اليسرى"
+        ],
+        "name": "يُسرى",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "وهو اسم يعني البرهان والحجة والدليل القاطع"
+        ],
+        "name": "بينة",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "جنة هي البستان الأخضر المليئ بالخضرة، وهو الحديقة وهي اسم مقدس لأن الجنة هي مثوى المؤمنين بالله في الأخرة كما أن الاسم يتميز بأنه يستخدم في صيغة الجمع أيضاً كاسم علم مؤنث وهو “جنان” و”جنات”"
+        ],
+        "name": "جنة",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "يعني الكثير من المال والخير وهو الكثير من كل شيء والكثير من الغبار المتراكم وهو الإسلام والنبوة والأحسن من كل شيء"
+        ],
+        "name": "كوثر",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "التسنيم هو أحد أسماء عين في الجنة وقد وعد بها الله المقربون منه كما يفسر البعض أنه  شراب يسقى منه المؤمنين والمقربين من الله"
+        ],
+        "name": "تسنيم",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "سلسبيل هو اللين في الحلق وهو الخمر والماء العذب السهل المساغ ويُقصد به الماء السهل والسلِس في البلع"
+        ],
+        "name": "سلسبيل",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "وتعني الخلو من الذنب أو التهمة"
+        ],
+        "name": "براءة",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "مادة سائلة حلوة المذاق تفرزها بعض الأزهار"
+        ],
+        "name": "رحيق",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "الأفنان هي الفروع والأغصان ومفردها فنن، والأفنان اسم يوحي بالرفعة والسمو"
+        ],
+        "name": "أفنان",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "وهو يعني القريبة"
+        ],
+        "name": "دانية",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "ويعني الحرير السميك المنسوج بخيوط الذهب"
+        ],
+        "name": "إستبرق",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "وقت ارتفاع النهار وامتداده"
+        ],
+        "name": "ضُحى",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "معنى آخر من معاني اللؤلؤ، وهو ومفرد “در”"
+        ],
+        "name": "دُرة",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "الزمرد نوع من أنواع الأحجار الكريمة الشفافة ، ويتميز بلونه شديدة الخضرة"
+        ],
+        "name": "زمردة",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "حجر كريم معروف بلونه الأَزرق المائل للخضرة"
+        ],
+        "name": "فيروز",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "حجر شفاف، ويتميز بوجود ثلاثة ألوان منه فقط هم الأصفر و الأزرق و الأحمر"
+        ],
+        "name": "ياقوتة",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "من الأحجار الكريمة النفيسة، وتتميز بلونها المائل للوردي"
+        ],
+        "name": "لؤلؤة/لولي",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "مفرد ألماس وهو حجر كريم شفَّاف شديد اللَّمعان"
+        ],
+        "name": "ماسة",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "ويعني بريق الذهب أو الماس"
+        ],
+        "name": "لمار",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "تعني الحكمة وهو اسم يوناني الأصل"
+        ],
+        "name": "صوفيا",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "اسم فارسي يعني الجمال والحسن"
+        ],
+        "name": "شيرين",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "الضحك الخفيف بدون صوت"
+        ],
+        "name": "ابتسام",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "اسم مأخوذ من البهجة، أي الفرح والسرور"
+        ],
+        "name": "ابتهاج",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "الدعاء لله والتضرع له في الصلاة"
+        ],
+        "name": "ابتهال",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "تعني الشفاء"
+        ],
+        "name": "إبلال",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "اسم عربي يعني العلامات التي تبقت من شىء ما"
+        ],
+        "name": "آثار",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "الاستغناء وكثرة المال والأرزاق"
+        ],
+        "name": "إثراء",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "وهو النتيجة، من عمل أو تعب وغيره، كما تطلق على الأبناء"
+        ],
+        "name": "إثمار",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "جوهر السَّيف وبريقه"
+        ],
+        "name": "أثير",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "كرام القوم وأخيارهم ، والخيول النجيبة"
+        ],
+        "name": "أجاويد",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "الصوت ، الأصل ، الحركة ، الهمس"
+        ],
+        "name": "أجراس",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "اسم عربي وهو جمع جفن، أي الكرم"
+        ],
+        "name": "أجفان",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "الكرماء الأسخياء ، السَّريعو الجري ، الشّجعان…"
+        ],
+        "name": "أجواد",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "جمع جُون وهو الخليج الصغير"
+        ],
+        "name": "أجوان",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "جمع جيل، وهم الناس من عصر أو زمن معين"
+        ],
+        "name": "أجيال",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "اسم للفتاة الهادئة، اللطيفة، الوديعة"
+        ],
+        "name": "أنيسة",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "السوسن الندي"
+        ],
+        "name": "رفيف",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "نوع من الشجر ذو رائحة طيبة وطويل العمر"
+        ],
+        "name": "رندا أو رندة",
+        "type": "M",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "الورد الجوري باللغة الأجنبية"
+        ],
+        "name": "روز",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "نوع من أنواع الزهور جميلة الشكل ذات الرائحة العطرية الرائعة"
+        ],
+        "name": "رواند",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "اسم من أسماء زهرة الزنبق، وهي زهرة طيبة الرائحة تعطر المكان بأريجها"
+        ],
+        "name": "لي لي",
+        "type": "M",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "نبات عشبي تستعمل أوراقه لصنع السلال"
+        ],
+        "name": "سمار",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "اسم زهرة من فصيلة الرياحين ذات لون بنفسجي لامع، وأصل الزهرة فارسي"
+        ],
+        "name": "سوسن",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "نبات بري طيب الرائحة يستعمل للزينه، وينبت في شرق آسيا وأوروبا، ويلفظه العامة نردين"
+        ],
+        "name": "ناردين",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "نبات طيب الرائحة"
+        ],
+        "name": "راندا",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "زهرة متعددة الألوان وتشتهر هولندا بزراعتها"
+        ],
+        "name": "خزامى",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "زهر طيب الرائحة"
+        ],
+        "name": "خزام",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "اسم فرنسي ومعناه زهرة القرنفل"
+        ],
+        "name": "سوزي",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "إتقان، مهارة"
+        ],
+        "name": "براعة",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "نجم قيل هو المشترى"
+        ],
+        "name": "برجيس",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "أغلى أنواع الألماس صفاءً ولمعانًا"
+        ],
+        "name": "برلنت",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "اسم للشمس"
+        ],
+        "name": "براح",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "من الشجاعة والجرأة"
+        ],
+        "name": "بسيل",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "شديدة الابتسام"
+        ],
+        "name": "بسامة",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "الشيء شديد الجمال"
+        ],
+        "name": "لتين",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "زقزقة العصافير"
+        ],
+        "name": "تغاريد",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "النخلة الصغيرة"
+        ],
+        "name": "تالة",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "ورعة"
+        ],
+        "name": "تقية",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "نهر في الجنة"
+        ],
+        "name": "جوان",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "الورد الأحمر"
+        ],
+        "name": "جوري",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "اللؤلؤ الأبيض"
+        ],
+        "name": "جمانة",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "بائعة التمر"
+        ],
+        "name": "تمارة",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "أنثى الوعل أو الفتاة الجميلة"
+        ],
+        "name": "أروى",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "عطر، رائحة طيبة"
+        ],
+        "name": "أريج",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "الباب العظيم، ومنه اسم باب الكعبة المشرفة، ويُقال قفل الكعبة"
+        ],
+        "name": "ريتاج",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "أعلى منزلة، أرفع"
+        ],
+        "name": "أسمى",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "الياسمين"
+        ],
+        "name": "سامان",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "الوجه"
+        ],
+        "name": "سيما",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "ملكي"
+        ],
+        "name": "شهين",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "الأميرة"
+        ],
+        "name": "شهرزاد",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "ملكة الحب"
+        ],
+        "name": "شهناز",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "حلوى وفاكهة صيفية"
+        ],
+        "name": "مادلين",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "الفتاة الحلوة"
+        ],
+        "name": "شيرين بانو",
+        "type": "M",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "النجمة"
+        ],
+        "name": "تارا",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "الغزال الصغير"
+        ],
+        "name": "ميرال",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "اسم ياقوتة"
+        ],
+        "name": "روبين",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "جوهرة السيف وبريقه"
+        ],
+        "name": "أثير",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "بلدة في البحرين كان يُحمل إليها المسك من الهند"
+        ],
+        "name": "دارين",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "اسم يُنسب لنهر في العراق اسمه ديلي"
+        ],
+        "name": "ديالا",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "حسنة الخلق"
+        ],
+        "name": "ليساء",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "المكان العالي والمرتفع"
+        ],
+        "name": "رُبى",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "ستار الكعبة"
+        ],
+        "name": "سَدَنْ",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "الفضة السائلة أو معناه بريق الذهب والألماس"
+        ],
+        "name": "لوجين",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "مطر يدوم بسكون بلا رعد ولا برق"
+        ],
+        "name": "ديمة",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "رائع، يستخدم للإطراء"
+        ],
+        "name": "آفرين",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "المتألقة الجذابة"
+        ],
+        "name": "فرناز",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "غزال"
+        ],
+        "name": "غزل",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "اسم وردة"
+        ],
+        "name": "لادان",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "رخام"
+        ],
+        "name": "مرمر",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "نجمة"
+        ],
+        "name": "ناهيد",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "اسم وردة"
+        ],
+        "name": "نرجس",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "الورد البري"
+        ],
+        "name": "نسرين",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "اسم وردة"
+        ],
+        "name": "نسترن",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "المحبوبة"
+        ],
+        "name": "نازنين",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "جذابة"
+        ],
+        "name": "نازي",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "اسم وردة"
+        ],
+        "name": "نيلوفر",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "شيء حلو، جمال"
+        ],
+        "name": "نوشين",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "يعني النجمةن وهو اسم فارسي أذربيجاني"
+        ],
+        "name": "أولدوز",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "الفراشة"
+        ],
+        "name": "پروانة",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "متألقة"
+        ],
+        "name": "بروين",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "مشهورة"
+        ],
+        "name": "شهرة",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "فضي"
+        ],
+        "name": "سيمين",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "نجمة"
+        ],
+        "name": "تارا",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "صلصال"
+        ],
+        "name": "تينا",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "ذهبي"
+        ],
+        "name": "زرين",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "جميلة"
+        ],
+        "name": "زيبا",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "أشد أنواع الحب والهيام"
+        ],
+        "name": "وجد",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "بحر"
+        ],
+        "name": "دريا",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "وحيدة، كريمة"
+        ],
+        "name": "فريدة",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "حكيمة، عاقلة"
+        ],
+        "name": "فرزانة",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "المحبة"
+        ],
+        "name": "فيلا",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "تركواز"
+        ],
+        "name": "فيروز/ فيروزة",
+        "type": "M",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "الربيع"
+        ],
+        "name": "بهار",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "نبات طيب الرائحة"
+        ],
+        "name": "نردين",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "اسم أميرة إيرانية"
+        ],
+        "name": "أزيتا",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "يعني الروح في الأسبانية، أي روح الفتاة"
+        ],
+        "name": "ألمى",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "هو المطر الدائم مع سكون"
+        ],
+        "name": "ديمة",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "هو ماء المطر الذي يروي كل شيء"
+        ],
+        "name": "جود",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "نوع من الزهور"
+        ],
+        "name": "ورد",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "الرائحة الطيبة"
+        ],
+        "name": "عبير",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "الناعمة"
+        ],
+        "name": "نرمين",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "قوة الرائحة وانتشارها"
+        ],
+        "name": "شذى",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "برعم الورد"
+        ],
+        "name": "زهرة",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "الشباب"
+        ],
+        "name": "جوليا",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "زهرة بيضاء ذات رائحة عطرية جميلة"
+        ],
+        "name": "بيلسان",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "الورد الأحمر الكبير"
+        ],
+        "name": "جوري",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "النخلة الصغيرة"
+        ],
+        "name": "تالة",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "الشابة الصغيرة، النمو"
+        ],
+        "name": "تالا",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "نبات طيب الرائحة، يستعمل للزينة"
+        ],
+        "name": "ناردين",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "فرخ النعام وجمعها رئال"
+        ],
+        "name": "رألة",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "البياض الصافي وصفاء اللون"
+        ],
+        "name": "زهرة",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "المنشد والمترنم"
+        ],
+        "name": "شادن",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "إله الخصب والربيع عند الرومان"
+        ],
+        "name": "مايا",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "زهرة الرمان"
+        ],
+        "name": "جلنار",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "الفتاة المختارة لزهرة الزنبق من الوادي"
+        ],
+        "name": "ليلى",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "اسم زهرة عطرية معروفة"
+        ],
+        "name": "ياسمين",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "بداية الضوء"
+        ],
+        "name": "إشراق",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "المنشد والمترنم"
+        ],
+        "name": "شادن",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "إله الخصب والربيع عند الرومان"
+        ],
+        "name": "مايا",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "ومعناه المتميزة المثالية التي لا يشبهها أحد، وهو اسم الملكة فريدة زوجة الملك فاروق"
+        ],
+        "name": "فريدة",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "هو اسم البطلة الأسطورية، الموجودة في رواية ألف ليلة وليلة، وهو اسم علم مؤنث فارسي ومعناه الأميرة، أو بنت البلد. وهو اسم مركب من “شهر: المدينة”، و “زاد: الابنة”"
+        ],
+        "name": "شهرزاد",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "اسم فارسي مركب من جزأين “ناز” ويعني الدلال والدلع و”لي” يعني ذات والاسم بالكامل يعني “ذات الدلال والرقة” وهو اسم الملكة نازلي فاضل زوجة السلطان فؤاد الأول وأم الملك فاروق"
+        ],
+        "name": "نازلي",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "هو اسم فريال هانم ابنة إبراهيم باشا والي مصرن وهو اسم فارسي الأصل ونطقه الأصلي بفتح الفاء، وهو مركب من جزأين، “فر” ويعني النور والحسن والدلال و”يال” ويعني الرقبة، والاسم الكامل يعني “ذات الرقبة الطويلة والجميلة”"
+        ],
+        "name": "فريال",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "اسم الأميرة شفق نور زوجة الخديوي إسماعيل، والشفق هو الضوء الذي يظهر في جهة الغرب بعد غروب الشمس"
+        ],
+        "name": "شفق",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "وهو اسم مأخوذ من قصة الفيلم الشهير (سندريلا)، ويعني بالإنجليزية ” الحذاء الزجاجي الصغير” وبالألمانية يعني طرماد المدفأة”"
+        ],
+        "name": "سندريلا",
+        "type": "S",
+        "periodCode": "OLD"
+      },
+      {
+        "genderCode": "F",
+        "mean": [
+          "الاسم الذي تحمله بطلة فيلم (علاء الدين والمصباح السحري)، وهو اسم زهرة الياسمين الزكية العطرة"
+        ],
+        "name": "ياسمين",
+        "type": "S",
+        "periodCode": "OLD"
+      }
   ];
