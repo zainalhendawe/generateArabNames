@@ -22,6 +22,11 @@ $(document).ready(function(){
          
           });
          
+          $.each(names, function(i) {
+            $('.results').append('<li class="main-name"><span>' + names[i].name + ' </span><span class="mean-name">'+ names[i].mean +'</span></li>');
+           
+            
+          });
     })
 
 
