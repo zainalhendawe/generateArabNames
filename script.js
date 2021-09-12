@@ -3,6 +3,7 @@ $(document).ready(function(){
     var count = 0;
     $('#selectName').hide();
     $('#counter').hide();
+    $('#selectNameVal').hide();
 
     $('.select-name').click(function(){
         $('#counter').show();
@@ -17,6 +18,9 @@ $(document).ready(function(){
               counter=0;
               count = 0;
               $('#selectName').show();
+              var randomNameObj = names[Math.floor(Math.random() * names.length)];
+              $('#selectNameVal').show();
+              $('#selectNameVal').text(randomNameObj.name);
             }
           },10);
          
@@ -24,8 +28,6 @@ $(document).ready(function(){
          
           $.each(names, function(i) {
             $('.results').append('<li class="main-name"><span>' + names[i].name + ' </span><span class="mean-name">'+ names[i].mean +'</span></li>');
-           
-            
           });
     })
 
