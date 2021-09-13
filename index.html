@@ -17,25 +17,6 @@
         </div>
     </div>
     <div class="container">
-        <div class="content">
-            <div class="row mt-2">
-                <div class="col-lg-6 col-sm-12">
-                    <div class="dropdown">
-                        <button class="dropbtn"> <i class="fa fa-bars"></i> قائمة الاسماء</button>
-                        <div class="dropdown-content">
-                        <a href="#">اسماء الإناث</a>
-                        <a href="#">اسماء الذكور</a>
-                        <a href="#">الاسماء المركبة</a>
-                        <a href="#">الاسماء الحديثة</a>
-                        <a href="#">الاسماء القديمة</a>
-                        </div>
-                      </div>
-                </div>
-                <div class="col-lg-6 col-sm-12">
-                    <input type="text" class="form-control text-right w-50 float-right" placeholder="ابحث عن الاسم">
-                </div>
-            </div>
-        </div>
         <div class="row mt-5">
             <div class="col-12">
                 <div class="title text-center">
@@ -90,54 +71,53 @@
             </div>
             <div class="d-flex justify-content-center text-right mt-4">
                 <div class="form-check">
-                    <input class="form-check-input" type="radio" name="gender2" id="girl2" value="option1">
+                    <input class="form-check-input" type="radio" name="gender2" id="girl2" value="option1" data-gender="F">
                     <label class="form-check-label mr-4 float-right" for="girl2">
                       أنثى
                     </label>
                   </div>
                   <div class="form-check">
-                    <input class="form-check-input" type="radio" name="gender2" id="boy2" value="option2">
+                    <input class="form-check-input search-boys" type="radio" name="gender2" id="boy2" value="option2" data-gender="M">
                     <label class="form-check-label mr-4 float-right" for="boy2">
                       ذكر
                     </label>
                   </div>
-                  <div class="form-check">
-                    <input class="form-check-input" type="radio" name="gender2" id="both2" value="option3" checked>
+                  <!-- <div class="form-check">
+                    <input class="form-check-input" type="radio" name="gender2" id="both2" value="option3" checked data-gender="B">
                     <label class="form-check-label mr-4 float-right" for="both2">
                       كليهما
                     </label>
-                  </div>
+                  </div> -->
             </div>
             <div class="d-flex justify-content-center text-right mt-4">
                 <div class="form-check">
-                    <input class="form-check-input" type="radio" name="type" id="modern" value="option1">
+                    <input class="form-check-input" type="radio" name="poriod" id="modern" value="option1" data-period='NEW'>
                     <label class="form-check-label mr-4 float-right" for="modern">
                       اسماء حديثة
                     </label>
                   </div>
                   <div class="form-check">
-                    <input class="form-check-input" type="radio" name="type" id="old" value="option2">
+                    <input class="form-check-input" type="radio" name="poriod" id="old" value="option2" data-period='OLD'>
                     <label class="form-check-label mr-4 float-right" for="type">
                      اسماء معروفة
                     </label>
                   </div>
-                  <div class="form-check">
-                    <input class="form-check-input" type="radio" name="type" id="both2" value="bothtype" checked>
-                    <label class="form-check-label mr-4 float-right" for="bothtype">
+                  <!-- <div class="form-check">
+                    <input class="form-check-input" type="radio" name="poriod" id="both2" value="bothtype" checked data-period='Both'>
+                     <label class="form-check-label mr-4 float-right" for="bothtype">
                       كليهما
                     </label>
-                  </div>
+                  </div> -->
             </div>
             <div class="d-flex justify-content-center text-right mt-4">
-                <input type="text" class="form-control text-right ml-2" placeholder="الحرف الأول">
-                <input type="text" class="form-control text-right ml-2" placeholder="الحرف الأخير">
-                <input type="text" class="form-control text-right ml-2" placeholder="يحتوي على">
+                <input type="text" class="w-50 form-control text-right ml-2" placeholder="يحتوي على">
             </div>
-            <div class="green-button mt-4 p-1 select-name">
+            <div class="green-button mt-4 p-1 search-button">
               بحث
            </div>
             <div class="mt-4">
-                <ul class="results"></ul>
+              <table class="data-table results"></table>
+             
             </div>
             
         </row>

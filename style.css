@@ -71,13 +71,22 @@
     font-weight: 500;
 }
 .mean-name{
-  font-size: 17px;
+  font-size: 20px;
   color: #969d9e;
   margin-right: 5px;
 }
 .results{
   text-align: right;
   list-style: none;
-  font-size: 17px;
+  font-size: 20px;
   color: #175676;
+}
+.data-table{
+  border: 1px solid #969d9e;
+}
+.data-table-row{
+  border-bottom: 1px solid #969d9e;
+}
+.form-check input{
+  cursor: pointer;
 }
