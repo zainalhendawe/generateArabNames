@@ -1,144 +1,160 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="bootstrap.min.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="style.css">
-    <title>Arabs Names Generator</title>
-</head> 
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" type="image/png" sizes="16x16" href="./footprint.png">
+  <link rel="manifest" href="/manifest.json">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+  <link rel="stylesheet" href="bootstrap.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="style.css">
+  <title>Arabs Names Generator</title>
+</head>
+
 <body>
-    <div class="header">
-        <div class="container">
-         <img src="baby-boy.png" alt="baby" srcset="" class="baby-icon">
-         <h1 class="header-title">Arabs Names Generator</h1>
-        </div>
-    </div>
+
+  <button onclick="toTop()" id="topButton" title="Go to top">
+    <div class="top-button-word">Top</div>
+  </button>
+  <div class="header">
     <div class="container">
-        <div class="row mt-5">
-            <div class="col-12">
-                <div class="title text-center">
-                    !اختر اسم طفلك عشوائيا
-                 </div>
-                <div class="d-flex justify-content-center text-right mt-4">
-                    <div class="form-check">
-                        <input class="form-check-input" type="radio" name="gender" id="girl" value="option1">
-                        <label class="form-check-label mr-4 float-right" for="girl">
-                          أنثى
-                        </label>
-                      </div>
-                      <div class="form-check">
-                        <input class="form-check-input" type="radio" name="gender" id="boy" value="option2">
-                        <label class="form-check-label mr-4 float-right" for="boy">
-                          ذكر
-                        </label>
-                      </div>
-                      <div class="form-check">
-                        <input class="form-check-input" type="radio" name="gender" id="both" value="option3" checked>
-                        <label class="form-check-label mr-4 float-right" for="both">
-                          كليهما
-                        </label>
-                      </div>
-                </div>
-                <div class="green-button mt-4 p-1 select-name">
-                   اختيار
-                </div>
-                <div class="name mt-4 text-center">
-                  <div id="counter">
-                    <div class="loader">
-                      <div class="loader-counter">
-                        <h1>0</h1>
-                      </div>
-                    </div>
-                  </div>
-                  <div id="selectName">
-                    <img src="./pink-cosmos.png" width="30px" class="mr-2" alt="" srcset="">
-                    <span id="selectNameVal"></span>
-                    <img src="./pink-cosmos.png" width="30px" class="ml-2" alt="" srcset="">
-                  </div>
-                   
-                </div>
-            </div>
+      <img src="baby-boy.png" alt="baby" srcset="" class="baby-icon">
+      <h1 class="header-title">Arabs Names Generator</h1>
+    </div>
+  </div>
+  <div class="container">
+    <div class="row mt-5">
+      <div class="col-12">
+        <div class="title text-center">
+          !اختر اسم طفلك عشوائيا
         </div>
-        
-        <row class="mt-5">
-            <div class="col-12 mt-5">
-                <div class="title text-center">
-                    ابحث هنا عن اسم يناسب طفلك
-                 </div>
+        <div class="d-flex justify-content-center text-right mt-4">
+          <div class="form-check">
+            <input class="form-check-input" type="radio" name="gender" id="girl" value="option1" data-gender="F">
+            <label class="form-check-label mr-4 float-right" for="girl">
+              أنثى
+            </label>
+          </div>
+          <div class="form-check">
+            <input class="form-check-input" type="radio" name="gender" id="boy" value="option2" data-gender="M">
+            <label class="form-check-label mr-4 float-right" for="boy">
+              ذكر
+            </label>
+          </div>
+          <div class="form-check">
+            <input class="form-check-input" type="radio" name="gender" id="both" value="option3" checked
+              data-gender="B">
+            <label class="form-check-label mr-4 float-right" for="both">
+              كليهما
+            </label>
+          </div>
+        </div>
+        <div class="green-button mt-4 p-1 select-name">
+          اختيار
+        </div>
+        <div class="name mt-4 text-center">
+          <div id="counter">
+            <div class="loader">
+              <div class="loader-counter">
+                <h1>0</h1>
+              </div>
             </div>
-            <div class="d-flex justify-content-center text-right mt-4">
-                <div class="form-check">
-                    <input class="form-check-input" type="radio" name="gender2" id="girl2" value="option1" data-gender="F">
-                    <label class="form-check-label mr-4 float-right" for="girl2">
-                      أنثى
-                    </label>
-                  </div>
-                  <div class="form-check">
-                    <input class="form-check-input search-boys" type="radio" name="gender2" id="boy2" value="option2" data-gender="M">
-                    <label class="form-check-label mr-4 float-right" for="boy2">
-                      ذكر
-                    </label>
-                  </div>
-                  <!-- <div class="form-check">
+          </div>
+          <div id="selectName">
+            <img src="./pink-cosmos.png" width="30px" class="mr-2" alt="" srcset="">
+            <span id="selectNameVal"></span>
+            <img src="./pink-cosmos.png" width="30px" class="ml-2" alt="" srcset="">
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <row class="mt-5">
+      <div class="col-12 mt-5">
+        <div class="title text-center">
+          ابحث هنا عن اسم يناسب طفلك
+        </div>
+      </div>
+      <div class="d-flex justify-content-center text-right mt-4">
+        <div class="form-check">
+          <input class="form-check-input" type="radio" name="gender2" id="girl2" value="option1" data-gender="F"
+            checked>
+          <label class="form-check-label mr-4 float-right" for="girl2">
+            أنثى
+          </label>
+        </div>
+        <div class="form-check">
+          <input class="form-check-input search-boys" type="radio" name="gender2" id="boy2" value="option2"
+            data-gender="M">
+          <label class="form-check-label mr-4 float-right" for="boy2">
+            ذكر
+          </label>
+        </div>
+        <!-- <div class="form-check">
                     <input class="form-check-input" type="radio" name="gender2" id="both2" value="option3" checked data-gender="B">
                     <label class="form-check-label mr-4 float-right" for="both2">
                       كليهما
                     </label>
                   </div> -->
-            </div>
-            <div class="d-flex justify-content-center text-right mt-4">
-                <div class="form-check">
-                    <input class="form-check-input" type="radio" name="poriod" id="modern" value="option1" data-period='NEW'>
-                    <label class="form-check-label mr-4 float-right" for="modern">
-                      اسماء حديثة
-                    </label>
-                  </div>
-                  <div class="form-check">
-                    <input class="form-check-input" type="radio" name="poriod" id="old" value="option2" data-period='OLD'>
-                    <label class="form-check-label mr-4 float-right" for="type">
-                     اسماء معروفة
-                    </label>
-                  </div>
-                  <!-- <div class="form-check">
+      </div>
+      <div class="d-flex justify-content-center text-right mt-4">
+        <div class="form-check">
+          <input class="form-check-input" type="radio" name="poriod" id="modern" value="option1" data-period='NEW'
+            checked>
+          <label class="form-check-label mr-4 float-right" for="modern">
+            اسماء حديثة
+          </label>
+        </div>
+        <div class="form-check">
+          <input class="form-check-input" type="radio" name="poriod" id="old" value="option2" data-period='OLD'>
+          <label class="form-check-label mr-4 float-right" for="type">
+            اسماء معروفة
+          </label>
+        </div>
+        <!-- <div class="form-check">
                     <input class="form-check-input" type="radio" name="poriod" id="both2" value="bothtype" checked data-period='Both'>
                      <label class="form-check-label mr-4 float-right" for="bothtype">
                       كليهما
                     </label>
                   </div> -->
-            </div>
-            <div class="d-flex justify-content-center text-right mt-4">
-                <input type="text" class="w-50 form-control text-right ml-2" placeholder="يحتوي على">
-            </div>
-            <div class="green-button mt-4 p-1 search-button">
-              بحث
-           </div>
-            <div class="mt-4">
-              <table class="data-table results"></table>
-             
-            </div>
-            
-        </row>
-       
+      </div>
+      <div class="d-flex justify-content-center text-right mt-4">
+        <input type="text" class="w-50 form-control text-right ml-2 search-field" placeholder="يحتوي على">
+      </div>
+      <div class="green-button mt-4 p-1 search-button">
+        بحث
+      </div>
+      <div class="mt-4">
+        <table class="data-table results search-box"></table>
 
+      </div>
 
-        
-    </div>
+    </row>
 
 
 
+
+  </div>
 
 
 
 
 
 
-<script src="./jquery.js"></script>
-<script src="./lookups.js"></script>
-<script src="./script.js"></script>
+
+
+
+  <script src="./jquery.js"></script>
+  <script src="./lookups.js"></script>
+  <script src="./script.js"></script>
 
 
 </body>
+
 </html>
