@@ -122,3 +122,12 @@ body{
 .data-table-row:nth-child(even){
   background-color: #4e937a17;
 }
+.text-image{
+  position: absolute;
+    font-size: 3vw;
+    left: 43%;
+    top: 40%;
+}
+.container-to-save{
+  position: relative;
+}

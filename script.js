@@ -67,8 +67,6 @@ $(document).ready(function () {
   });
 
 
-
-
 })
   //Get the button
   var topButton = document.getElementById("topButton");

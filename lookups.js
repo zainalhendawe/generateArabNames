@@ -22810,7 +22810,7 @@ var names = [
         "mean": [
           "حسنة وجميلة"
         ],
-        "name": "زينة",
+        "name": "زين",
         "type": "S",
         "periodCode": "OLD"
       },
